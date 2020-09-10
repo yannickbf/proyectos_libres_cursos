@@ -1,0 +1,38 @@
+Para añadir, modificar y eliminar ficha ir a mostrar.php
+
+Para visualizar ir a lista_aceites.php
+
+
+Estas son las marcas disponibles en los filtros
+
+Castrol
+Comline
+Elf
+Galp
+Iada
+Repsol
+Total
+
+Estas son las viscosidades disponibles en los filtros
+
+5w30
+
+5w40
+
+10w40
+
+15w40
+
+0w30
+
+0w40
+
+5w20
+
+5w50
+
+10w60
+
+10w30
+
+0w20
