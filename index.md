@@ -1,7 +1,3 @@
-
-hola
-# proyectos_libres_cursos
-## Link GitHub Pages: [yannickbf.github.io/proyectos_libres_cursos/](https://yannickbf.github.io/proyectos_libres_cursos/ "Link a la GitHub Page del repositorio")
 En este repositorio se pueden encontrar los archivos necesarios para el funcionamiento de las aplicaciones de tematica libre que he realizado durante mi actividad academica (Cert. Profesionalidad niv. 3 Dessarrollo de aplicaciones con tecnologia web y CFGS Dessarrollo de aplicaciones web).
 
 # Contenidos
