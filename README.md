@@ -27,7 +27,7 @@ Este proyecto fue realizado en las practicas del curso (80h), he de decir que la
 #### Para probar esta aplicacion haga [git clone](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Obteniendo-un-repositorio-Git) de [este repositorio](https://github.com/yannickbf/proyectos_libres_cursos/tree/master/Proyectos_realizados_en_DAW_(CFGS_Desarrollo_de_aplicaciones_web)/ProyectoFinalEstacionEsquiAcabado_(app_consola_java)) para descargartelo. Es necesario tener instalado Java
 #### [Javadoc](https://triangulate-minimum.000webhostapp.com/documentacion_proyecto_esqui/javadoc/javadoc.html)
 #### [Documentacion de pruebas realizadas](https://triangulate-minimum.000webhostapp.com/documentacion_proyecto_esqui/Documentacion%20de%20pruebas%20realizadas.pdf)
-#### [Video explicativo]()
+#### [Video explicativo](https://drive.google.com/file/d/17Nuu68TlUHo8k7xPfmjmH4JsC-AoJEPx/view?usp=sharing)
 #### [Diagrama de Ghantt (Calendario de realizacion del proyecto)](https://triangulate-minimum.000webhostapp.com/documentacion_proyecto_esqui/Diagrama%20de%20Ghantt%20(calendario).xlsx)
 #### [Memoria del proyecto](https://triangulate-minimum.000webhostapp.com/documentacion_proyecto_esqui/Memoria%20del%20proyecto.docx)
 #### Toda la documentacion se encuentra tambien alojada en GitHub en la carpeta [Documentacion](https://github.com/yannickbf/proyectos_libres_cursos/tree/master/Proyectos_realizados_en_DAW_(CFGS_Desarrollo_de_aplicaciones_web)/ProyectoFinalEstacionEsquiAcabado_(app_consola_java)/Documentacion)
