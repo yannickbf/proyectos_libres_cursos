@@ -1,5 +1,3 @@
-### En este repositorio se pueden encontrar los archivos necesarios para el funcionamiento de las aplicaciones de tematica libre que he realizado durante mi actividad academica (Cert. Profesionalidad niv. 3 Dessarrollo de aplicaciones con tecnologia web y CFGS Dessarrollo de aplicaciones web).
-
 # Contenidos
 
 ## 1. Cert. Profesionalidad niv. 3 Dessarrollo de aplicaciones con tecnologia web [Link Repositorio](https://github.com/yannickbf/proyectos_libres_cursos/tree/master/Proyectos_realizados_en_cert_prof_niv3_Dessarrollo_de_aplicaciones_con_tecnologia_web)
