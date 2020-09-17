@@ -1,6 +1,7 @@
 # Sobre mi
-       ![Alt text](https://triangulate-minimum.000webhostapp.com/imagen_yannick_baratte_forner.png)
+![Yannick Baratte Forner](https://triangulate-minimum.000webhostapp.com/imagen_yannick_baratte_forner.png)
 Hola hola
+***
 
 # Contenidos
 
