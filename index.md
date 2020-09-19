@@ -18,7 +18,7 @@ Este proyecto fue realizado en las practicas del curso (80h), he de decir que la
 #### [Ver aplicacion en funcionamiento](https://triangulate-minimum.000webhostapp.com/proyecto_aceites_(app_web)/lista_aceites.php)
 #### [Añadir un nuevo aceite](https://triangulate-minimum.000webhostapp.com/proyecto_aceites_(app_web)/mostrar.php)
 *Si hace clic en [Añadir un nuevo aceite](https://triangulate-minimum.000webhostapp.com/proyecto_aceites_(app_web)/mostrar.php) vera todos los aceites disponibles en la base de datos. Para añadir un nuevo aceite haga clic en "Nuevo", ha de escribir un tipo de viscosidad y una marca de las que figuran en las [instrucciones](https://triangulate-minimum.000webhostapp.com/proyecto_aceites_(app_web)/lista_aceites.php). Una vez añadido podra ver que la aplicacion funciona con el aceite que ha añadido.*  
-*La base de datos esta en un servidor gratuito por lo que a veces tarda mucho en cargar y a veces salen errores, te recomiendo que si tarda en cargar, si ves algun error o la pagina no funciona correctamente, pruebes mas tarde*
+*La base de datos esta en un servidor gratuito por lo que a veces tarda mucho en cargar y a veces salen errores, te recomiendo que si tarda en cargar, si ves algun error o la pagina no funciona correctamente, pruebes mas tarde.*
   
 ## 2. CFGS Dessarrollo de aplicaciones web [Link Repositorio](https://github.com/yannickbf/proyectos_libres_cursos/tree/master/Proyectos_realizados_en_DAW_(CFGS_Desarrollo_de_aplicaciones_web))
  
